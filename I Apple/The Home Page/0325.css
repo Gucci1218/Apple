@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+.doremi{
+    text-align: center;
+    background-color: rgb(51, 196, 218);
+}
+.faso{
+    text-align: center;
+}
+.tido{
+    text-align: center;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    margin: 30px;
+    padding:30px
+}
+li:hover{
+    font-size: 50px;
+    color: pink;
+    
+}
+nav{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(166, 125, 255);
+}
+.msmcdade{
+    text-align: center;
+  
+}

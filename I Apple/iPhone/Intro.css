@@ -1,0 +1,45 @@
+
+.mama{
+    text-align: center;
+    display: flex;
+    background-color: rgb(79, 88, 116);
+}
+.d10{
+  background-color: rgb(79, 88, 116);
+  flex: 2;
+}
+body{
+  background-color: rgb(199, 199, 230);
+}
+.papa{
+  background-color: rgb(199, 199, 230);
+}
+.d40{
+  text-align: center;
+}
+
+.brother{
+  display: flex;
+  background-color: white;
+}
+.d60{
+  text-align: center;
+}
+.sister{
+  display: flex;
+  background-color: rgb(152, 163, 195);}
+.d100{
+  text-align: center;
+}
+.d20{
+  flex:0.5;
+}
+.d110{
+  background-color: rgb(109, 109, 187);
+}
+.d120{
+  background-color: rgb(140, 213, 255);
+}
+.d130{
+  background-color: azure;
+}
